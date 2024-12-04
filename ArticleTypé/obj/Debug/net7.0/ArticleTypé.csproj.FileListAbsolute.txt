@@ -1,0 +1,5 @@
+C:\Users\Dell\Downloads\exosC--main(1)\exosC--main\ArticleTypé\obj\Debug\net7.0\ArticleTypé.csproj.AssemblyReference.cache
+C:\Users\Dell\Downloads\exosC--main(1)\exosC--main\ArticleTypé\obj\Debug\net7.0\ArticleTypé.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Downloads\exosC--main(1)\exosC--main\ArticleTypé\obj\Debug\net7.0\ArticleTypé.AssemblyInfoInputs.cache
+C:\Users\Dell\Downloads\exosC--main(1)\exosC--main\ArticleTypé\obj\Debug\net7.0\ArticleTypé.AssemblyInfo.cs
+C:\Users\Dell\Downloads\exosC--main(1)\exosC--main\ArticleTypé\obj\Debug\net7.0\ArticleTypé.csproj.CoreCompileInputs.cache
